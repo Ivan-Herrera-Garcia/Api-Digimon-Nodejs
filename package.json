@@ -1,0 +1,24 @@
+{
+  "name": "api-digimon",
+  "version": "1.0.1",
+  "description": "Proyecto que hace uso de un web scraping para recolectar informacion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Ivan Herrera Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "connect-multiparty": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "6.6.1",
+    "mongoose-paginate": "^5.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
