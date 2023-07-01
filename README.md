@@ -13,7 +13,7 @@
 
 ## Peticion por ID
 
-<code>https://api-digimon.onrender.com/api/v1/digivice</code>
+<code>https://api-digimon.onrender.com/api/v1/getDigimon/id/120</code>
 
 ### Con esta peticion puedes buscar un Digimon en especifico por su ID
 
